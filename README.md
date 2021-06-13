@@ -4,7 +4,7 @@ I am a 25 y/o junior software developer currently living in Auckland, New Zealan
 
 I have recently changed from a career in Real Estate as a Personal Assistant -> Operations Manager -> Systems Analyst to pursue my long-term goal of getting into the tech industry.
 
-I have been studying full stack web development through Mission Ready HQ's tech career accelorator programs, along with many other full stack orientated online courses.
+I have been studying full stack web development through Mission Ready HQ's tech career accelerator programs, along with many other full stack orientated online courses.
 
 Find out more about me on [LinkedIn](https://www.linkedin.com/in/sam-mccathie-aa0923176/).
 
