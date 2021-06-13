@@ -1,4 +1,12 @@
-### Hi there 👋 I am Sam McCathie
+#### Hey! I'm Sam.
+
+I am a junior software developer currently living in Auckland, New Zealand.
+
+I have recently changed from a career in Real Estate as a Personal Assistant -> Operations Manager -> Systems Analyst to pursue my long-term goal of getting into the tech industry.
+
+I have been studying full stack web development through Mission Ready HQ's tech career accelorator programs, along with many other full stack orientated online courses.
+
+Find out more about me on [LinkedIn](https://www.linkedin.com/in/sam-mccathie-aa0923176/).
 
 <!--
 **Sam-McCathie/Sam-McCathie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +23,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## About Me
+
