@@ -1,6 +1,6 @@
 #### Hey! I'm Sam.
 
-I am a junior software developer currently living in Auckland, New Zealand.
+I am a 25 y/o junior software developer currently living in Auckland, New Zealand.
 
 I have recently changed from a career in Real Estate as a Personal Assistant -> Operations Manager -> Systems Analyst to pursue my long-term goal of getting into the tech industry.
 
