@@ -1,8 +1,6 @@
 #### Hey! I'm Sam.
 
-I am a 25 y/o junior software developer currently living in Auckland, New Zealand.
-
-I have been studying full stack web development through Mission Ready HQ's tech career accelerator programs, along with many other full stack orientated online courses.
+I am a 26 y/o software developer currently living in Auckland, New Zealand.
 
 Find out more about me on [LinkedIn](https://www.linkedin.com/in/sam-mccathie-aa0923176/).
 
