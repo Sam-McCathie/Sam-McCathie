@@ -1,6 +1,6 @@
 #### Hey! I'm Sam.
 
-I am a 27 y/o software developer currently living in Auckland, New Zealand.
+I am a 29 y/o software developer currently living in Auckland, New Zealand.
 
 Find out more about me on [LinkedIn](https://www.linkedin.com/in/sam-mccathie-aa0923176/).
 
